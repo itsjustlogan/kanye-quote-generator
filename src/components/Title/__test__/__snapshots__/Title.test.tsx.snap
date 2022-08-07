@@ -1,0 +1,13 @@
+// Vitest Snapshot v1
+
+exports[`Title Component > should match screenshot 1`] = `
+<DocumentFragment>
+  <h1
+    aria-label="app title"
+    class="text-center py-6 text-green-200 bg-red-200 font-3xl xl:font-4xl"
+    data-testid="title"
+  >
+    very deep quote
+  </h1>
+</DocumentFragment>
+`;

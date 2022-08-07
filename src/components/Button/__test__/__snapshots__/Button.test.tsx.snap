@@ -1,0 +1,17 @@
+// Vitest Snapshot v1
+
+exports[`Button component > should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="grid md:pt-40"
+  >
+    <button
+      class="mx-auto border-none border-radius-medium bg-red-200 text-white font-bld py-3 px-2 font-lg xl:font-xl cursor-pointer hover:scale-90 transition-1"
+      data-testid="button"
+      type="button"
+    >
+      click me
+    </button>
+  </div>
+</DocumentFragment>
+`;

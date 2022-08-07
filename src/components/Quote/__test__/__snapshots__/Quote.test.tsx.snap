@@ -1,0 +1,21 @@
+// Vitest Snapshot v1
+
+exports[`Quote Component > should match screenshot 1`] = `
+<DocumentFragment>
+  <blockquote
+    aria-label="quote"
+    class="text-center p-8 w-fit text-white bg-gray-900 font-bld mt-36 mx-auto border-radius-medium xl:font-lg"
+    data-testid="quote"
+  >
+    "very deep quote"
+  </blockquote>
+  <p
+    aria-label="quote by"
+    class="text-center p-8 xl:font-lg"
+  >
+    <i>
+      - Kanye West
+    </i>
+  </p>
+</DocumentFragment>
+`;

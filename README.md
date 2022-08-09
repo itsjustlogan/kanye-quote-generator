@@ -1,7 +1,7 @@
 # **Kanye West Quote Generator**
 
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
-![coverage](https://img.shields.io/badge/coverage-92%-brightgreen)
+![coverage](https://img.shields.io/badge/coverage-92%25-brightgreen)
 ![MIT](https://img.shields.io/badge/license-MIT-green)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/edaa1464-9f95-4325-b13a-d6e5c59155b1/deploy-status)](https://app.netlify.com/sites/ye-quotes/deploys)
 
